@@ -1,5 +1,7 @@
-namespace tabuleiro{
-  public class Posicao{
+namespace tabuleiro
+{
+  public class Posicao
+  {
     public int linha{get; set;}
     public int coluna{get;set;}
     public Posicao(int linha, int coluna)
